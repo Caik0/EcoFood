@@ -38,9 +38,10 @@ yarn-error.log*
 .env.development.local
 .env.test.local
 .env.production.local
-# Ignorar dumps e scripts locais de banco de dados
-*.sql
-*.sqlite
+
+# PERMITIR o script de inicialização do projeto no repositório:
+!database/*.sql
+!database/init.sql
 
 ## =========================================
 ## 4. FERRAMENTAS E SISTEMA (VS Code, OS)
