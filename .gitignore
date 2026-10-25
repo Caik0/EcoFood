@@ -55,3 +55,8 @@ yarn-error.log*
 .history/
 Thumbs.db
 .DS_Store
+
+## =========================================
+## 4. Senhas da API
+## =========================================
+appsettings.json
