@@ -1,0 +1,6 @@
+[submodule "EcoFood.Web"]
+	path = EcoFood.Web
+	url = https://github.com/devCaio00/EcoFood-Frontend.git
+[submodule "EcoFood_Api"]
+	path = EcoFood_Api
+	url = https://github.com/devCaio00/EcoFood-Backend.git
